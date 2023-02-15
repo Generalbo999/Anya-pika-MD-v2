@@ -13,7 +13,7 @@ global.DocumentTitle = "MASTER⚔️PIKA"
 
 
 global.ownername = "Navaneeth manoj"   // Owner name //        
-global.ownernumber = ['91+8547120106'] 
+global.ownernumber = ['79857339318'] 
 global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
 global.ytname = "YT: Ytname"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
@@ -21,7 +21,7 @@ global.region = "India" // your country name
 global.state = "Assam" // your state name
 global.district = "Dibrugarh" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
+global.instagramId = "3.69_pika" /https://instagram.com/__sachu.sachuzz__?igshid=YmMyMTA2M2Y=/ Your insta ID
 global.email = "example@exmaple.com" // put your email here
 
 
